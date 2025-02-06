@@ -18,7 +18,7 @@ function Contact() {
         <h2>Get in Touch</h2>
         <div className="contact-info">
           <p><strong>Email:</strong> FinalExam@gmail.com</p>
-          <p><strong>Phone:</strong> 593456*** - ბოლოს სამ ციფრს არ ვასახელებთ</p>
+          <p><strong>Phone:</strong> 593456*** - ბოლო სამ ციფრს არ ვასახელებთ</p>
           <p><strong>Address:</strong> 123 Innovation Street, Tech City, USA</p>
         </div>
       </section>
